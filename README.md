@@ -1,32 +1,36 @@
-<h1 align="center">Hi there, I'm Omar Abdikadir 👋</h1>
+<h1 align="center">Hi there, I'm Omar Abdikadir Hassan 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Mobile+App+Developer;🛡️+Cybersecurity+Enthusiast" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 
-<p align="left">
-  💡 <b>Software Engineering student dedicated to building impactful, real-world applications.</b>
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p align="left">
+        💡 <b>Passionate Software Engineering student building real-world applications.</b>
+      </p>
+      <ul>
+        <li>🛡️ <b>Cybersecurity Enthusiast</b></li>
+        <li>💻 <b>Full-Stack Developer</b></li>
+        <li>📱 <b>Mobile App Developer</b></li>
+        <li>🏆 <b>Hackathon Participant</b></li>
+      </ul>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <img src="giphy.gif" alt="Coding GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="giphy.gif" width="400" />
-</p>
-
+## 🛠️ Tech Stack
+<!-- Halkan ku dar icons-ka xirfadahaaga sida Django, React, iyo Flutter -->
 
 <!-- Boos dheeri ah oo lagu kala fogeynayo qoraalka iyo sawirka -->
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Logic-GIFs/programmer.gif" alt="Coding GIF" width="350" />
-</p>
-
-<!-- Boos dheeri ah oo hoose -->
-<br>
-
-- 🛡️ **Cybersecurity Enthusiast**
-- 💻 **Full-Stack Web Developer**
-- 📱 **Mobile App Developer**
-- 🏆 **Hackathon Participant**
-
-## 🛠️ My Tech Stack & Skills
 
 | 🎨 Frontend | ⚙️ Backend |
 | :--- | :--- |
