@@ -1,29 +1,29 @@
 <h1 align="center">Hi there, I'm Omar Abdikadir 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Mobile+App+Developer;🛡️+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="giphy.gif" alt="Coding GIF" width="400" />
 </p>
 
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p align="left">
-        💡 <b>Passionate Software Engineering student building real-world applications.</b>
-      </p>
-      <ul>
-        <li>🛡️ <b>Cybersecurity Enthusiast</b>: Xiiseeya network security iyo ethical hacking.</li>
-        <li>💻 <b>Full-Stack Developer</b>: Ku taakhasusay dhisidda webka (Django, React).</li>
-        <li>📱 <b>Mobile App Developer</b>: Dhisidda apps-ka moobaylka (Flutter & Dart).</li>
-        <li>🎓 <b>Education</b>: Arday barta Software Engineering, haddana gacanta ku haya <i>Hostel Management System</i>.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/assets/programmer.gif" alt="Coding GIF" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  💡 <b>Software Engineering student dedicated to building impactful, real-world applications.</b>
+</p>
+
+<!-- Boos dheeri ah oo lagu kala fogeynayo qoraalka iyo sawirka -->
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Logic-GIFs/programmer.gif" alt="Coding GIF" width="350" />
+</p>
+
+<!-- Boos dheeri ah oo hoose -->
+<br>
+
+- 🛡️ **Cybersecurity Enthusiast**
+- 💻 **Full-Stack Web Developer**
+- 📱 **Mobile App Developer**
+- 🏆 **Hackathon Participant**
 
 ## 🛠️ My Tech Stack & Skills
 
